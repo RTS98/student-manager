@@ -1,0 +1,3 @@
+[Student]-(View Details), [Student]-(View grades), (View Details)>(Login), (View grades)>(Login), (Login)<(Invalid password)
+[Teacher]-(View all students), [Teacher]-(Add student),[Teacher]-(Add grades), (Add student)>(Login), (View all students)>(Login),(Add grades)>(Login), (Add student)<(Student already exist)
+[Administrator]-(Create account), [Administrator]-(Add subject),(Create account)<(Account already exist)
